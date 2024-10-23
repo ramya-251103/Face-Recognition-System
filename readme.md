@@ -1,0 +1,3 @@
+- Implemented the K-Nearest Neighbour (K-NN) classification algorithm for face recognition.
+- Utilized OpenCV and HaarCascades for precise frontal face detection under 700 milliseconds.
+- Achieved an outstanding error rate below 3% on a dataset comprising 1,000 images.
